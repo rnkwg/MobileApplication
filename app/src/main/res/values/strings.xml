@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ma01_20180941</string>
+    <string name="api_key">AIzaSyBEp1UrBUd9oYkJhdXeUcFkvOG37j7I16A</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+    <string name="client_id">9pdcb6tbrx</string>
+    <string name="client_secret">0ch0rvVYCxz05uK9Wd9U6gpiEuXlc2oBs365gTLY</string>
+</resources>
